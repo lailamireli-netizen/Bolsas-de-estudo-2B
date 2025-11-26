@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bolsas Disponíveis</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Bolsas Disponíveis</h1>
+    <nav>
+      <a href="index.html">Início</a>
+      <a href="login.html">Login</a>
+      <a href="contato.html">Contato</a>
+    </nav>
+  </header>
+
+  <section class="lista-bolsas">
+    <h2>Oportunidades Atuais</h2>
+    <ul>
+      <li><strong>Bolsa Integral - Engenharia</strong> — Universidade X</li>
+      <li><strong>50% Desconto - TI</strong> — Faculdade Y</li>
+      <li><strong>Bolsa para Mulheres na Ciência</strong> — Instituto Z</li>
+    </ul>
+  </section>
+</body>
+</html>
